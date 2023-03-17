@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+h2{
+    color:#3df56e;
+}
+
+button{
+background-image: url(https://cdn.dribbble.com/users/39141/screenshots/4370017/01_copy_195.gif);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.fs-4{
+    color: #3df56e;
+}
+
+li{
+    color: greenyellow;
+}
+
+span{
+    color:white;
+}
